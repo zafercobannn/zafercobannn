@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Zafer</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 - 🌱 I’m currently learning **Pyhton & Django**
 
 - 📫 How to reach me **zafercoban6699@gmail.com**
