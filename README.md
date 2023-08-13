@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zafer</h1>
+<h1>Hi 👋, I'm Zafer</h1>
 - 🌱 I’m currently learning Javascript & React
 
 - 📫 How to reach me **zafercoban6699@gmail.com**
