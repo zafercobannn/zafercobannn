@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zafer</h1>
-- 🌱 I’m currently learning **Pyhton & Django**
+- 🌱 I’m currently learning Javascript & React
 
 - 📫 How to reach me **zafercoban6699@gmail.com**
 
