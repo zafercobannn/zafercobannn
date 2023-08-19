@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Zafer</h1>
+![image](https://github.com/zafercobannn/zafercobannn/assets/69654137/408d4020-9fec-4843-8c9b-a2d79413d343)<h1>Hi 👋, I'm Zafer</h1>
 🌱 I’m currently learning Javascript & React
 
 📫 How to reach me **zafercoban6699@gmail.com**
@@ -8,8 +8,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/zafer-%C3%A7oban/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zafer-çoban-392276195/" height="30" width="40" /></a>
 </p>
-<p align="center">
-<a href="mailto:zafercoban6699@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zafer-çoban-392276195/" height="30" width="40" /></a>
+<p align="left">
+<a href="mailto:zafercoban6699@gmail.com" target="blank"><img align="center" src="[image](https://github.com/zafercobannn/zafercobannn/assets/69654137/b6343038-e535-4abf-9f55-d843971ccf62)
+" alt="zafer-çoban-392276195/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
