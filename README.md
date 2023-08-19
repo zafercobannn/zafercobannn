@@ -3,7 +3,6 @@
 
 - 📫 How to reach me **zafercoban6699@gmail.com**
 
-- <div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="zafer-cobannn" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/zafer-cobannn?trk=profile-badge">Zafer Ç.</a></div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
