@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Zafer</h1>
-- 🌱 I’m currently learning Javascript & React
+🌱 I’m currently learning Javascript & React
 
-- 📫 How to reach me **zafercoban6699@gmail.com**
+📫 How to reach me **zafercoban6699@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
