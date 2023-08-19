@@ -1,4 +1,4 @@
-![image](https://github.com/zafercobannn/zafercobannn/assets/69654137/408d4020-9fec-4843-8c9b-a2d79413d343)<h1>Hi 👋, I'm Zafer</h1>
+<h1>Hi 👋, I'm Zafer</h1>
 🌱 I’m currently learning Javascript & React
 
 📫 How to reach me **zafercoban6699@gmail.com**
